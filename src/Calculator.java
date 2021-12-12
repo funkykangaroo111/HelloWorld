@@ -44,6 +44,12 @@ public class Calculator {
                 System.out.println("Answer = " + division);
 
 
+            case 5 :
+            System.out.println("Thank you for using my calculator!");
+            System.exit(0);
+            break;
+
+
             default:
                 System.out.println("Please type a number between 1 - 4. If you want to exit then type 5. Thank you!");
                 break;
