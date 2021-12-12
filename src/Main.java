@@ -9,7 +9,7 @@ public class Main {
         System.out.println(Math.pow(x, 1.0/3.0));
          */
 
-        CircleCalculator.run();
+        Calculator.calc();
         /*
         String str1 = "Hello World!";
         System.out.println(str1 + "\t\u0D9E");
